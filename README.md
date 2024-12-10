@@ -1,4 +1,4 @@
-# ETL Pipeline of Cola Next Pvt. Ltd. using Apache Airflow
+# ETL Pipeline of Cola Next using Apache Airflow
 
 ## Overview
 Data warehouses are hallmarks of industrial data analytics initiatives. Trends of developing analytical pipelines without data warehouses may be non-sustainable and non-scalable. At the same time, structuring a structured warehouse or data mart from a non-clean, haphazard, highly normalized, and ad-hoc OLTP “spaghetti” is a big challenge. In this challenge, you will be required to structure a data warehouse (henceforth data mart) from a given OLTP spaghetti and transfer data from OLTP to the data mart. The requirement is to implement the mart as a star schema through dimensional modelling. 
